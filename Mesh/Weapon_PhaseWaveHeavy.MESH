@@ -7,8 +7,8 @@ MeshData
 	MinBoundingExtents [ -32.428856 -32.169292 -36.764908 ]
 	NumMaterials 1
 	Material
-		DiffuseTextureFileName "phasewave2.tga"
-		SelfIlluminationTextureFileName "phasewave2.tga"
+		DiffuseTextureFileName "phasewave2"
+		SelfIlluminationTextureFileName "phasewave2"
 		NormalTextureFileName ""
 		DisplacementTextureFileName ""
 		TeamColorTextureFileName ""
